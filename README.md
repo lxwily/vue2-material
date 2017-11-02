@@ -1,6 +1,6 @@
-# lxwily
+# vue2移动端项目
 
-> A Vue.js project
+> 电脑访问请切换到手机模式或者手机扫描二维码
 
 ## Build Setup
 
