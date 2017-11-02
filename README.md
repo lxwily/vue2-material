@@ -1,7 +1,7 @@
 # vue2移动端项目
 
 > 电脑访问请切换到手机模式或
-[电脑请点击访问](https://lxwily.github.io/vue2/)
+[电脑请点击访问](https://lxwily.github.io/vue2-material/dist/#/login)
 #
 手机扫描二维码
 # ![0.1.0_alpha](https://github.com/lxwily/vue2-material/blob/master/src/assets/code.png?raw=true)
