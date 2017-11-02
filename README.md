@@ -5,8 +5,8 @@
 
 #
 
-> 手机扫描二维码
-![0.1.0_alpha](https://github.com/lxwily/vue2-material/blob/master/src/assets/code.png?raw=true)
+手机扫描二维码
+#![0.1.0_alpha](https://github.com/lxwily/vue2-material/blob/master/src/assets/code.png?raw=true)
 
 ## Build Setup
 
