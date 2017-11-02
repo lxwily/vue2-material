@@ -1,8 +1,9 @@
 # vue2移动端项目
 
 > 电脑访问请切换到手机模式或者手机扫描二维码
-[PC网址](https://lxwily.github.io/vue2/)
-[二维码](https://github.com/lxwily/vue2-material/blob/master/src/assets/code.png?raw=true)
+[电脑请点击访问](https://lxwily.github.io/vue2/)
+#
+![0.1.0_alpha](https://github.com/lxwily/vue2-material/blob/master/src/assets/code.png?raw=true)
 
 ## Build Setup
 
@@ -29,7 +30,11 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 #效果图
 
 ![0.1.0_alpha](https://github.com/lxwily/vue2-material/blob/master/src/assets/login.jpg?raw=true)
+#
 ![0.1.0_alpha](https://github.com/lxwily/vue2-material/blob/master/src/assets/book.jpg?raw=true)
+#
 ![0.1.0_alpha](https://github.com/lxwily/vue2-material/blob/master/src/assets/home.jpg?raw=true)
+#
 ![0.1.0_alpha](https://github.com/lxwily/vue2-material/blob/master/src/assets/music.jpg?raw=true)
+#
 ![0.1.0_alpha](https://github.com/lxwily/vue2-material/blob/master/src/assets/pitrue.jpg?raw=true)
