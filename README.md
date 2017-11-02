@@ -21,13 +21,14 @@ npm run build
 npm run build --report
 ```
 
-#项目状态
+##项目状态
 此项目将不再维护,（如数据获取不出可能是因为该接口访问受限，请稍后再试）
 
+##
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 
-#效果图
+##效果图
 
 ![0.1.0_alpha](https://github.com/lxwily/vue2-material/blob/master/src/assets/login.jpg?raw=true)
 #
