@@ -1,8 +1,8 @@
 # vue2移动端项目
 
-> 电脑访问请切换到手机模式或者手机扫描二维码
+> 电脑访问请切换到手机模式或
 [电脑请点击访问](https://lxwily.github.io/vue2/)
-#
+> 手机扫描二维码
 ![0.1.0_alpha](https://github.com/lxwily/vue2-material/blob/master/src/assets/code.png?raw=true)
 
 ## Build Setup
@@ -19,9 +19,11 @@ npm run build
 
 # build for production and view the bundle analyzer report
 npm run build --report
-```
 
-##项目状态
+```
+#
+
+###项目状态
 此项目将不再维护,（如数据获取不出可能是因为该接口访问受限，请稍后再试）
 
 ##
