@@ -8,6 +8,8 @@
 
 ## Build Setup
 
+## vue2移动端项目
+
 ``` bash
 # install dependencies
 npm install
@@ -15,22 +17,16 @@ npm install
 # serve with hot reload at localhost:8080
 npm run dev
 
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
+# 正常情况
+打开localhost:8080 项目启动
 
 ```
+
+For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 ##项目状态
 
 此项目将不再维护,（如数据获取不出可能是因为该接口访问受限，请稍后再试）
-
-##
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-
 
 ##效果图
 
